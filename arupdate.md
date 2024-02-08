@@ -157,7 +157,7 @@ info () {
   echo -e
   echo -e "Prepared by Hercules"
   echo -e "https://twitter.com/HerculesNode"
-  echo -e "Phttps://github.com/herculesnode"
+  echo -e "https://github.com/herculesnode"
   echo -e
   echo -e ${GREEN}"======================================================================"${NC}
   echo -e
